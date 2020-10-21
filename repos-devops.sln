@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "devops", "WebApplication1\devops.csproj", "{8B507F99-2652-4AA6-8183-E87A972A97C7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "repos-devops", "WebApplication1\repos-devops.csproj", "{8B507F99-2652-4AA6-8183-E87A972A97C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
